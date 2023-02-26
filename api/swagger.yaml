@@ -1,0 +1,10 @@
+info:
+  contact: {}
+  description: Description of the example API
+  title: Example API
+  version: "1.0"
+paths: {}
+securityDefinitions:
+  BasicAuth:
+    type: basic
+swagger: "2.0"
