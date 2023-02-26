@@ -1,4 +1,4 @@
-module example/hello
+module goserv
 
 go 1.20
 
